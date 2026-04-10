@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T05:43:50.632Z",
+  "lastUpdated": "2026-04-10T06:49:53.111Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -207,32 +207,5 @@
       "facility": "",
       "ipo": ""
     }
-  ],
-  "reference": {
-    "htctCustomers": [
-      "Waaree",
-      "KP Green",
-      "ABB",
-      "Schneider",
-      "GH2 Solar"
-    ],
-    "exportMarkets": [
-      "Egypt ? Elsewedy",
-      "Qatar",
-      "Saudi Arabia",
-      "Kuwait",
-      "Botswana",
-      "Kenya",
-      "Europe"
-    ],
-    "domesticStates": [
-      "Gujarat",
-      "Chhattisgarh",
-      "Madhya Pradesh",
-      "Uttar Pradesh",
-      "Karnataka",
-      "Tamil Nadu",
-      "Andhra Pradesh"
-    ]
-  }
+  ]
 }
