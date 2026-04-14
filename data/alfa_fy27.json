@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T12:32:13.414Z",
+  "lastUpdated": "2026-04-14T13:00:20.046Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -12,13 +12,13 @@
       "epcRev": null,
       "tradingRev": 283.002,
       "rejRate": 2,
-      "exportRev": null,
-      "exportDev": "",
-      "orderUpdates": "",
-      "customers": "",
-      "product": "New land procurement ? in talks with RIICO ? MOU expected by end of April",
-      "facility": "DPR expected in April",
-      "ipo": ""
+      "exportRev": "2-4 Orders (1/2% of total revenue)",
+      "exportDev": "Qatar order to be  sent in april, may",
+      "orderUpdates": "Vendor approval done in Chattisgarh - can start marketing there",
+      "customers": "Polaris",
+      "product": "MV Range type testing finished (egypt done)",
+      "facility": "New land procurement, in talks with RIICO - should be able to get MOU done by end of April",
+      "ipo": "DPR should come in april"
     },
     {
       "month": "April",
@@ -34,7 +34,7 @@
       "orderUpdates": "",
       "customers": "",
       "product": "",
-      "facility": "",
+      "facility": "Ramjankipura, bichum, biharipura - areas finalised under Rico. Finalizing plots this month",
       "ipo": "All pollution & compliance reports for 2nd factory expected"
     },
     {
