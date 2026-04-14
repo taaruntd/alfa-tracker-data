@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T12:30:20.199Z",
+  "lastUpdated": "2026-04-14T12:30:47.847Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -11,7 +11,7 @@
       "ltctUnits": 17439,
       "epcRev": null,
       "tradingRev": 283.002,
-      "rejRate": 0.02,
+      "rejRate": 2,
       "exportRev": null,
       "exportDev": "",
       "orderUpdates": "",
