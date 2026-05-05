@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T16:30:20.650Z",
+  "lastUpdated": "2026-05-05T17:00:20.555Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -28,7 +28,7 @@
       "ltctUnits": 33248,
       "epcRev": null,
       "tradingRev": 88.64918,
-      "rejRate": 200,
+      "rejRate": 2,
       "exportRev": 1.11,
       "exportDev": "",
       "orderUpdates": "60Cr - Adwerts, Radius, Bharat Bijlee",
