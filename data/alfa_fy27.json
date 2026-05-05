@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T07:30:20.082Z",
+  "lastUpdated": "2026-05-05T08:00:20.715Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -27,14 +27,14 @@
       "ltctRev": 224.92386,
       "ltctUnits": 33248,
       "epcRev": null,
-      "tradingRev": null,
-      "rejRate": null,
-      "exportRev": null,
+      "tradingRev": 88.64918,
+      "rejRate": 200,
+      "exportRev": 1.11,
       "exportDev": "",
-      "orderUpdates": "",
+      "orderUpdates": "60Cr - Adwerts, Radius, Bharat Bijlee",
       "customers": "",
       "product": "",
-      "facility": "Ramjankipura, bichum, biharipura - areas finalised under Rico. Finalizing plots this month",
+      "facility": "Ramjankipura, bichum, biharipura - areas finalised under Rico. Finalizing plots this month - Land payment in mid may",
       "ipo": "All pollution & compliance reports for 2nd factory expected"
     },
     {
