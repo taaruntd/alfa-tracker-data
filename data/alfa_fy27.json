@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-05T07:00:20.416Z",
+  "lastUpdated": "2026-05-05T07:30:20.082Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
     {
       "month": "March (FY26)",
-      "htctRev": 792.1772031999999,
+      "htctRev": 509.1752,
       "htctUnits": 798,
       "ltctRev": 126.44026899999999,
       "ltctUnits": 17439,
@@ -22,10 +22,10 @@
     },
     {
       "month": "April",
-      "htctRev": null,
-      "htctUnits": null,
-      "ltctRev": null,
-      "ltctUnits": null,
+      "htctRev": 283.776,
+      "htctUnits": 512,
+      "ltctRev": 224.92386,
+      "ltctUnits": 33248,
       "epcRev": null,
       "tradingRev": null,
       "rejRate": null,
