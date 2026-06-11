@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T07:30:20.522Z",
+  "lastUpdated": "2026-06-11T08:00:20.895Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -39,20 +39,20 @@
     },
     {
       "month": "May",
-      "htctRev": null,
-      "htctUnits": null,
-      "ltctRev": null,
-      "ltctUnits": null,
+      "htctRev": 268.924,
+      "htctUnits": 252,
+      "ltctRev": 169.58669,
+      "ltctUnits": 15489,
       "epcRev": null,
-      "tradingRev": null,
+      "tradingRev": 59.870000000000005,
       "rejRate": null,
       "exportRev": null,
       "exportDev": "",
-      "orderUpdates": "",
+      "orderUpdates": "9.5Cr - EPC orders in the JV",
       "customers": "",
       "product": "",
-      "facility": "",
-      "ipo": ""
+      "facility": "Finding new plot of land for expansion",
+      "ipo": "Objects, DPR, few legal consents, (80% there)"
     },
     {
       "month": "June",
