@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T11:30:21.188Z",
+  "lastUpdated": "2026-06-13T12:00:19.330Z",
   "fiscalYear": "FY27",
   "company": "Alfa Intercontinental Pvt. Ltd.",
   "monthly": [
@@ -39,15 +39,15 @@
     },
     {
       "month": "May",
-      "htctRev": 268.924,
+      "htctRev": 203.975,
       "htctUnits": 252,
       "ltctRev": 169.58669,
       "ltctUnits": 15489,
       "epcRev": null,
-      "tradingRev": 59.870000000000005,
+      "tradingRev": 64.949,
       "rejRate": null,
       "exportRev": null,
-      "exportDev": "",
+      "exportDev": "Kenya Expo Participation",
       "orderUpdates": "9.5Cr - EPC orders in the JV",
       "customers": "",
       "product": "",
